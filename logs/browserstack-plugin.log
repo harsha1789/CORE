@@ -1,0 +1,387 @@
+11:51:26.487 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+11:51:26.489 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.4, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=k2uKxpAHrtbK7MRxZfqv, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=harshatoshniwal_waquJi, BROWSERSTACK_FRAMEWORK=java, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=java:eclipse:v1.0.8]
+11:51:36.327 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:51:36.328 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:51:36.329 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CORE
+11:51:36.329 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:51:36.330 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:51:36.330 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CORE
+11:51:42.026 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:51:42.027 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:51:42.028 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CORE
+11:51:42.028 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:51:42.028 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:51:42.029 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CORE
+11:52:02.121 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:52:02.121 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:52:02.122 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CORE
+11:52:02.122 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:52:02.122 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:52:02.123 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CORE
+11:52:13.581 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:52:13.581 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:52:13.581 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CORE
+11:52:13.582 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:52:13.582 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:52:13.583 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CORE
+11:52:33.445 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:52:33.445 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:52:33.445 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CORE
+11:52:33.446 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:52:33.446 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:52:33.447 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CORE
+11:54:15.032 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:54:15.032 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:54:15.033 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+11:54:15.034 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:54:15.034 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:54:15.035 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+11:54:19.209 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:54:19.209 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:54:19.210 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+11:54:19.210 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:54:19.210 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:54:19.211 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+11:54:52.808 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:54:52.808 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:54:52.809 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+11:54:52.809 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:54:52.809 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:54:52.810 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+11:54:56.669 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:54:56.670 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:54:56.670 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+11:54:56.671 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:54:56.671 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:54:56.672 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+11:55:08.716 [Worker-16: Launching Executing test in D__BETWAY_EasyHelp] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:55:27.911 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:55:27.911 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:55:27.912 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+11:55:27.912 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:55:27.912 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:55:27.913 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+11:55:37.327 [Worker-14: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:55:37.328 [Worker-14: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:55:40.146 [Worker-14: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:55:41.458 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:55:41.458 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:55:41.458 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+11:55:41.459 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:55:41.459 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:55:41.459 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+11:55:45.631 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:55:45.631 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:55:45.632 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+11:55:45.632 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:55:45.632 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:55:45.633 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+11:56:10.909 [Worker-10: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:57:32.370 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:57:32.370 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:57:32.371 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+11:57:32.371 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:57:32.371 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:57:32.372 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+11:57:35.079 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:57:35.079 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:57:35.080 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+11:57:35.080 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:57:35.080 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:57:35.081 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+11:57:48.063 [Worker-10: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:57:48.064 [Worker-10: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:58:34.919 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:58:34.919 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:58:34.921 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+11:58:34.921 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:58:34.921 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:58:34.922 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+11:58:48.570 [Worker-28: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:58:48.571 [Worker-28: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:58:48.572 [Worker-28: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:58:48.573 [Worker-28: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:59:01.307 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:59:01.308 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:59:01.308 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+11:59:01.309 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:59:01.309 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:59:01.309 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+11:59:13.727 [Worker-28: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:59:13.728 [Worker-28: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:59:13.729 [Worker-28: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:59:13.729 [Worker-28: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:00:44.715 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:00:44.715 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:00:44.716 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+12:00:44.716 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:00:44.716 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:00:44.717 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+12:00:53.726 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:00:53.727 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:00:53.727 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+12:00:53.728 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:00:53.728 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:00:53.728 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+12:01:01.851 [Worker-27: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:01:01.851 [Worker-27: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:01:01.852 [Worker-27: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:01:01.853 [Worker-27: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:02:42.235 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:02:42.235 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:02:42.236 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Betway_2023
+12:02:42.236 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:02:42.236 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:02:42.237 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Betway_2023
+12:02:47.130 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:02:47.130 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:02:47.131 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+12:02:47.131 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:02:47.131 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:02:47.132 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+12:02:50.769 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:02:50.769 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:02:50.770 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+12:02:50.770 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:02:50.770 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:02:50.770 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+12:03:05.448 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:03:05.448 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:03:05.449 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Betway_2023
+12:03:05.449 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:03:05.449 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:03:05.450 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Betway_2023
+12:03:13.000 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:03:13.000 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:03:13.001 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+12:03:13.001 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:03:13.001 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:03:13.002 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+12:03:14.522 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:03:14.523 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:03:14.524 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+12:03:14.524 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:03:14.524 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:03:14.525 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+12:04:04.284 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:04:04.284 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:04:04.286 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+12:04:04.286 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:04:04.286 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:04:04.287 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+12:04:16.345 [Worker-42: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:04:16.346 [Worker-42: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:04:16.347 [Worker-42: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:04:16.347 [Worker-42: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:04:28.609 [main] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:04:32.920 [Worker-43: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:04:32.921 [Worker-43: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:04:32.922 [Worker-43: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:10:18.909 [Worker-48: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:10:18.910 [Worker-48: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:10:18.911 [Worker-48: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:10:18.911 [Worker-48: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:10:33.190 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:10:33.190 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:10:33.191 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+12:10:33.192 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:10:33.192 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:10:33.192 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+12:10:55.698 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:10:55.698 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:10:55.699 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+12:10:55.699 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:10:55.699 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:10:55.700 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+12:11:05.401 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:11:05.401 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:11:05.402 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+12:11:05.402 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:11:05.402 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:11:05.403 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+12:11:26.219 [Worker-33: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:11:26.220 [Worker-33: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:11:26.221 [Worker-33: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:11:26.221 [Worker-33: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:11:44.682 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:11:44.682 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:11:44.683 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+12:11:44.683 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:11:44.683 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:11:44.684 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+12:35:49.610 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:35:49.610 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:35:49.611 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:35:49.611 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:35:49.611 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:35:49.612 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:36:43.873 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:36:43.873 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:36:43.873 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:36:43.874 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:36:43.874 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:36:43.875 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:41:11.537 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:41:11.537 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:41:11.538 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:41:11.538 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:41:11.538 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:41:11.539 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:41:19.464 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:41:19.464 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:41:19.465 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:41:19.465 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:41:19.465 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:41:19.466 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:43:31.612 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:43:31.612 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:43:31.613 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:43:31.613 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:43:31.613 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:43:31.614 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:43:36.103 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:43:36.103 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:43:36.103 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:43:36.104 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:43:36.104 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:43:36.104 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:43:47.369 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:43:47.370 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:43:47.370 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:43:47.371 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:43:47.371 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:43:47.371 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:43:51.214 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:43:51.214 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:43:51.215 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:43:51.215 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:43:51.215 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:43:51.216 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:43:56.476 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:43:56.476 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:43:56.477 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:43:56.477 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:43:56.477 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:43:56.478 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:44:00.051 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:44:00.051 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:44:00.052 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:44:00.052 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:44:00.052 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:44:00.053 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:44:52.359 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:44:52.359 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:44:52.360 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:44:52.361 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:44:52.361 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:44:52.361 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:44:52.362 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:44:52.362 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:44:52.362 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:49:48.916 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:49:48.916 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:49:48.916 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:49:48.917 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:49:48.917 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:49:48.917 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:50:11.675 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:50:11.675 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:50:11.676 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:50:11.676 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:50:11.676 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:50:11.677 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:50:49.804 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:50:49.804 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:50:49.805 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:50:49.805 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:50:49.805 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:50:49.806 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:51:27.135 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:51:27.135 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:51:27.136 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:51:27.136 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:51:27.136 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:51:27.137 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:51:38.931 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:51:38.931 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:51:38.931 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:51:38.932 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:51:38.932 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:51:38.932 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:52:35.702 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:52:35.702 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:52:35.702 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:52:35.703 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:52:35.703 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:52:35.703 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:52:44.691 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:52:44.691 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:52:44.692 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:52:44.692 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:52:44.692 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:52:44.693 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+12:53:14.068 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:53:14.068 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:53:14.069 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FORCE_DIGIT
+12:53:14.069 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:53:14.069 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:53:14.070 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FORCE_DIGIT
+13:26:59.781 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:26:59.781 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:26:59.781 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+13:26:59.781 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:26:59.781 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:26:59.783 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+13:27:09.407 [Worker-74: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:27:09.408 [Worker-74: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+13:27:09.408 [Worker-74: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:27:09.409 [Worker-74: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+13:05:49.961 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:05:49.961 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:05:49.962 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+13:05:49.962 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:05:49.962 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:05:49.963 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+13:27:45.413 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:27:45.413 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:27:45.414 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+13:27:45.414 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:27:45.414 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:27:45.415 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+13:27:51.191 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:27:51.191 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:27:51.192 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+13:27:51.192 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:27:51.192 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:27:51.193 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+13:30:29.598 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:30:29.598 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:30:29.598 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+13:30:29.599 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:30:29.599 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:30:29.599 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+13:30:38.387 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:30:38.387 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:30:38.388 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+13:30:38.389 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:30:38.389 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:30:38.390 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+13:30:42.676 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:30:42.676 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:30:42.677 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BETWAY _2023
+13:30:42.677 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:30:42.677 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:30:42.678 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BETWAY _2023
+13:31:21.412 [Worker-91: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:31:21.412 [Worker-91: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+13:31:21.413 [Worker-91: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:31:21.413 [Worker-91: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+18:09:28.155 [Worker-112: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:09:28.156 [Worker-112: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+18:09:28.157 [Worker-112: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:09:28.158 [Worker-112: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:57:25.486 [Worker-120: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:57:25.487 [Worker-120: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:57:25.488 [Worker-120: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:57:25.488 [Worker-120: Launching TestNG] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+10:58:02.816 [Framework stop - Equinox Container: d50a737e-7818-4986-87b7-c1be37b571f6] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...

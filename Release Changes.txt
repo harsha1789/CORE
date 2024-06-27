@@ -1,0 +1,19 @@
+################v3 changes##########
+1) Change hard coded values of image Library
+OpenCVDLL
+"D:\\softwares\\opencv\\opencv\\build\\java\\x64\\opencv_java430.dll"
+
+Yet to changes FullImage.jpg **
+
+Changed SYsout to debuggers
+
+REMOVE DB USER AND dbpass
+
+Change in getAppiumService url ,to support ios device farm and durban device farm
+
+
+//18th APril JAVA 8
+
+Market methods added.
+Helpfile fix added 
+Language code script added .
