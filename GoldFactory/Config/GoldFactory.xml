@@ -1,0 +1,596 @@
+<XML>
+   <VersionInfo version="2011.02.22.2" requiredExeVersion="127"/>
+   <ServiceInfo moduleId="12856" slotPacketCodecs="V5XMLAdvancedSlot"/>
+   <Slot name="Gold Factory">
+      <BetInfo method="MultipleCoinsPerLine" minNumCoins="1" maxNumCoins="20" defaultNumCoins="5" validChipSizes="1,2,5,10" defaultPaylines="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49"/>
+      <VisibleArea width="5" height="3">
+         <Matrix>
+            <VisAreaEntry reelId="0" bias="1"/>
+            <VisAreaEntry reelId="1" bias="1"/>
+            <VisAreaEntry reelId="2" bias="1"/>
+            <VisAreaEntry reelId="3" bias="1"/>
+            <VisAreaEntry reelId="4" bias="1"/>
+            <VisAreaEntry reelId="0" bias="0"/>
+            <VisAreaEntry reelId="1" bias="0"/>
+            <VisAreaEntry reelId="2" bias="0"/>
+            <VisAreaEntry reelId="3" bias="0"/>
+            <VisAreaEntry reelId="4" bias="0"/>
+            <VisAreaEntry reelId="0" bias="-1"/>
+            <VisAreaEntry reelId="1" bias="-1"/>
+            <VisAreaEntry reelId="2" bias="-1"/>
+            <VisAreaEntry reelId="3" bias="-1"/>
+            <VisAreaEntry reelId="4" bias="-1"/>
+         </Matrix>
+         <Paylines>
+           <Payline indexes="5,6,7,8,9"/>
+           <Payline indexes="10,11,12,13,14"/>
+           <Payline indexes="0,1,2,3,4"/>
+           <Payline indexes="10,6,2,8,14"/>
+           <Payline indexes="0,6,12,8,4"/>
+           <Payline indexes="5,11,12,13,9"/>
+           <Payline indexes="5,1,2,3,9"/>
+           <Payline indexes="10,11,7,3,4"/>
+           <Payline indexes="0,1,7,13,14"/>
+           <Payline indexes="5,1,7,13,9"/>
+           <Payline indexes="5,11,7,3,9"/>
+           <Payline indexes="10,6,7,8,14"/>
+           <Payline indexes="0,6,7,8,4"/>
+           <Payline indexes="10,6,12,8,14"/>
+           <Payline indexes="0,6,2,8,4"/>
+           <Payline indexes="5,6,12,8,9"/>
+           <Payline indexes="5,6,2,8,9"/>
+           <Payline indexes="10,11,2,13,14"/>
+           <Payline indexes="0,1,12,3,4"/>
+           <Payline indexes="10,1,2,3,14"/>
+           <Payline indexes="0,11,12,13,4"/>
+           <Payline indexes="5,1,12,3,9"/>
+           <Payline indexes="5,11,2,13,9"/>
+           <Payline indexes="10,1,12,3,14"/>
+           <Payline indexes="0,11,2,13,4"/>
+           <Payline indexes="10,1,7,13,4"/>
+           <Payline indexes="0,11,7,3,14"/>
+           <Payline indexes="5,11,2,8,4"/>
+           <Payline indexes="10,1,7,3,14"/>
+           <Payline indexes="0,6,12,13,9"/>
+           <Payline indexes="10,6,2,3,9"/>
+           <Payline indexes="5,11,7,13,9"/>
+           <Payline indexes="5,1,7,3,9"/>
+           <Payline indexes="10,6,12,8,4"/>
+           <Payline indexes="0,6,2,13,14"/>
+           <Payline indexes="0,11,12,8,4"/>
+           <Payline indexes="5,1,2,13,14"/>
+           <Payline indexes="10,11,7,8,4"/>
+           <Payline indexes="0,1,12,8,14"/>
+           <Payline indexes="10,11,2,3,4"/>
+           <Payline indexes="0,1,12,13,14"/>
+           <Payline indexes="5,1,12,8,4"/>
+           <Payline indexes="5,11,2,8,14"/>
+           <Payline indexes="10,6,2,8,9"/>
+           <Payline indexes="0,6,12,3,9"/>
+           <Payline indexes="5,1,7,13,14"/>
+           <Payline indexes="5,11,7,3,4"/>
+           <Payline indexes="0,1,7,3,4"/>
+           <Payline indexes="10,11,7,13,14"/>
+           <Payline indexes="0,6,2,13,9"/>
+         </Paylines>
+      </VisibleArea>
+      <SymbolSet>
+         <Symbol name="Wild"        isWild="1" canWildSubstitute="0"/>
+         <Symbol name="Man"         isWild="0" canWildSubstitute="1"/>
+         <Symbol name="Boy"         isWild="0" canWildSubstitute="1"/>
+         <Symbol name="Factory"		isWild="0" canWildSubstitute="1"/>
+         <Symbol name="Train"		isWild="0" canWildSubstitute="1"/>
+		 <Symbol name="Submarine"	isWild="0" canWildSubstitute="1"/>
+         <Symbol name="Balloon"     isWild="0" canWildSubstitute="1"/>
+         <Symbol name="RailCart"    isWild="0" canWildSubstitute="1"/>
+         <Symbol name="GoldBars"    isWild="0" canWildSubstitute="1"/>
+         <Symbol name="CoinPile"    isWild="0" canWildSubstitute="1"/>
+         <Symbol name="Scatter"     isWild="0" canWildSubstitute="0"/>
+		 <Symbol name="FS_Scatter"  isWild="0" canWildSubstitute="0"/>
+      </SymbolSet>
+      <ReelSets>
+          <ReelSet name="Normal Reels">
+            <Reel type="LongPhysical" defaultPos="13">
+<Symbol name="Wild"/>
+<Symbol name="RailCart"/>
+<Symbol name="Balloon"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Boy"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Submarine"/>
+<Symbol name="RailCart"/>
+<Symbol name="Scatter"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Train"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Man"/>
+<Symbol name="CoinPile"/>
+<Symbol name="RailCart"/>
+<Symbol name="Factory"/>
+<Symbol name="GoldBars"/>
+<Symbol name="RailCart"/>
+<Symbol name="Balloon"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Boy"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Submarine"/>
+<Symbol name="RailCart"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Train"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Man"/>
+<Symbol name="CoinPile"/>
+<Symbol name="RailCart"/>
+<Symbol name="Factory"/>
+<Symbol name="GoldBars"/>
+            </Reel>
+            <Reel type="LongPhysical" defaultPos="11">
+<Symbol name="Wild"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Factory"/>
+<Symbol name="Train"/>
+<Symbol name="RailCart"/>
+<Symbol name="Boy"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Balloon"/>
+<Symbol name="Man"/>
+<Symbol name="Factory"/>
+<Symbol name="Submarine"/>
+<Symbol name="Train"/>
+<Symbol name="Scatter"/>
+<Symbol name="Man"/>
+<Symbol name="Balloon"/>
+<Symbol name="Train"/>
+<Symbol name="Factory"/>
+<Symbol name="Boy"/>
+<Symbol name="Submarine"/>
+<Symbol name="Balloon"/>
+<Symbol name="Train"/>
+<Symbol name="Factory"/>
+<Symbol name="Man"/>
+<Symbol name="Balloon"/>
+<Symbol name="Submarine"/>
+<Symbol name="Train"/>
+<Symbol name="Factory"/>
+<Symbol name="Boy"/>
+<Symbol name="Submarine"/>
+            </Reel>
+            <Reel type="LongPhysical" defaultPos="1">
+<Symbol name="Wild"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Man"/>
+<Symbol name="RailCart"/>
+<Symbol name="Boy"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Submarine"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Factory"/>
+<Symbol name="RailCart"/>
+<Symbol name="Balloon"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Train"/>
+<Symbol name="RailCart"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Scatter"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Man"/>
+<Symbol name="RailCart"/>
+<Symbol name="Boy"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Submarine"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Factory"/>
+<Symbol name="RailCart"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Balloon"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Train"/>
+<Symbol name="GoldBars"/>
+            </Reel>
+            <Reel type="LongPhysical" defaultPos="0">
+<Symbol name="Wild"/>
+<Symbol name="RailCart"/>
+<Symbol name="Submarine"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Boy"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Train"/>
+<Symbol name="RailCart"/>
+<Symbol name="Submarine"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Boy"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Train"/>
+<Symbol name="RailCart"/>
+<Symbol name="Submarine"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Boy"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Train"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Balloon"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Man"/>
+<Symbol name="RailCart"/>
+<Symbol name="Factory"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Balloon"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Man"/>
+<Symbol name="RailCart"/>
+<Symbol name="Factory"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Scatter"/>
+<Symbol name="Factory"/>
+<Symbol name="CoinPile"/>
+            </Reel>
+            <Reel type="LongPhysical" defaultPos="3">
+<Symbol name="Wild"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Boy"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Balloon"/>
+<Symbol name="RailCart"/>
+<Symbol name="Man"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Factory"/>
+<Symbol name="RailCart"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Submarine"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Train"/>
+<Symbol name="Submarine"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Balloon"/>
+<Symbol name="RailCart"/>
+<Symbol name="Boy"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Train"/>
+<Symbol name="Man"/>
+<Symbol name="Scatter"/>
+<Symbol name="RailCart"/>
+<Symbol name="Factory"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Submarine"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Balloon"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Man"/>
+<Symbol name="RailCart"/>
+<Symbol name="Factory"/>
+<Symbol name="Train"/>
+            </Reel>
+          </ReelSet>
+          <ReelSet name="Free Spin Reels">
+            <Reel type="LongPhysical" defaultPos="13">
+<Symbol name="Wild"/>
+<Symbol name="RailCart"/>
+<Symbol name="Balloon"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Boy"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Submarine"/>
+<Symbol name="RailCart"/>
+<Symbol name="FS_Scatter"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Train"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Man"/>
+<Symbol name="CoinPile"/>
+<Symbol name="RailCart"/>
+<Symbol name="Factory"/>
+<Symbol name="GoldBars"/>
+<Symbol name="RailCart"/>
+<Symbol name="Balloon"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Boy"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Submarine"/>
+<Symbol name="RailCart"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Train"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Man"/>
+<Symbol name="CoinPile"/>
+<Symbol name="RailCart"/>
+<Symbol name="Factory"/>
+<Symbol name="GoldBars"/>
+            </Reel>
+            <Reel type="LongPhysical" defaultPos="11">
+<Symbol name="Wild"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Factory"/>
+<Symbol name="Train"/>
+<Symbol name="RailCart"/>
+<Symbol name="Boy"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Balloon"/>
+<Symbol name="Man"/>
+<Symbol name="Factory"/>
+<Symbol name="Submarine"/>
+<Symbol name="Train"/>
+<Symbol name="FS_Scatter"/>
+<Symbol name="Man"/>
+<Symbol name="Balloon"/>
+<Symbol name="Train"/>
+<Symbol name="Factory"/>
+<Symbol name="Boy"/>
+<Symbol name="Submarine"/>
+<Symbol name="Balloon"/>
+<Symbol name="Train"/>
+<Symbol name="Factory"/>
+<Symbol name="Man"/>
+<Symbol name="Balloon"/>
+<Symbol name="Submarine"/>
+<Symbol name="Train"/>
+<Symbol name="Factory"/>
+<Symbol name="Boy"/>
+<Symbol name="Submarine"/>
+            </Reel>
+            <Reel type="LongPhysical" defaultPos="1">
+<Symbol name="Wild"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Man"/>
+<Symbol name="RailCart"/>
+<Symbol name="Boy"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Submarine"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Factory"/>
+<Symbol name="RailCart"/>
+<Symbol name="Balloon"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Train"/>
+<Symbol name="RailCart"/>
+<Symbol name="GoldBars"/>
+<Symbol name="FS_Scatter"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Man"/>
+<Symbol name="RailCart"/>
+<Symbol name="Boy"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Submarine"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Factory"/>
+<Symbol name="RailCart"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Balloon"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Train"/>
+<Symbol name="GoldBars"/>
+            </Reel>
+            <Reel type="LongPhysical" defaultPos="0">
+<Symbol name="Wild"/>
+<Symbol name="RailCart"/>
+<Symbol name="Submarine"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Boy"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Train"/>
+<Symbol name="RailCart"/>
+<Symbol name="Submarine"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Boy"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Train"/>
+<Symbol name="RailCart"/>
+<Symbol name="Submarine"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Boy"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Train"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Balloon"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Man"/>
+<Symbol name="RailCart"/>
+<Symbol name="Factory"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Balloon"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Man"/>
+<Symbol name="RailCart"/>
+<Symbol name="Factory"/>
+<Symbol name="GoldBars"/>
+<Symbol name="FS_Scatter"/>
+<Symbol name="Factory"/>
+<Symbol name="CoinPile"/>
+            </Reel>
+            <Reel type="LongPhysical" defaultPos="3">
+<Symbol name="Wild"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Boy"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Balloon"/>
+<Symbol name="RailCart"/>
+<Symbol name="Man"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Factory"/>
+<Symbol name="RailCart"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Submarine"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Train"/>
+<Symbol name="Submarine"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Balloon"/>
+<Symbol name="RailCart"/>
+<Symbol name="Boy"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Train"/>
+<Symbol name="Man"/>
+<Symbol name="FS_Scatter"/>
+<Symbol name="RailCart"/>
+<Symbol name="Factory"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Submarine"/>
+<Symbol name="CoinPile"/>
+<Symbol name="Balloon"/>
+<Symbol name="GoldBars"/>
+<Symbol name="Man"/>
+<Symbol name="RailCart"/>
+<Symbol name="Factory"/>
+<Symbol name="Train"/>
+            </Reel>
+          </ReelSet>
+        </ReelSets>
+
+        <WinningCombinations>
+
+       <WinCombination clientTag="27" name="5 x Wild" numSymbolsRequired="5" symbols="Wild" payouts="7500" direction="LeftToRight"/>
+       <WinCombination clientTag="28" name="4 x Wild" numSymbolsRequired="4" symbols="Wild" payouts="750" direction="LeftToRight"/>
+       <WinCombination clientTag="29" name="3 x Wild" numSymbolsRequired="3" symbols="Wild" payouts="75" direction="LeftToRight"/>
+
+       <WinCombination clientTag="24" name="5 x Man" numSymbolsRequired="5" symbols="Man" payouts="2500" direction="LeftToRight"/>
+       <WinCombination clientTag="25" name="4 x Man" numSymbolsRequired="4" symbols="Man" payouts="500" direction="LeftToRight"/>
+       <WinCombination clientTag="26" name="3 x Man" numSymbolsRequired="3" symbols="Man" payouts="40" direction="LeftToRight"/>
+
+       <WinCombination clientTag="21" name="5 x Boy" numSymbolsRequired="5" symbols="Boy" payouts="1500" direction="LeftToRight"/>
+       <WinCombination clientTag="22" name="4 x Boy" numSymbolsRequired="4" symbols="Boy" payouts="200" direction="LeftToRight"/>
+       <WinCombination clientTag="23" name="3 x Boy" numSymbolsRequired="3" symbols="Boy" payouts="30" direction="LeftToRight"/>
+
+       <WinCombination clientTag="18" name="5 x Factory" numSymbolsRequired="5" symbols="Factory" payouts="1000" direction="LeftToRight"/>
+       <WinCombination clientTag="19" name="4 x Factory" numSymbolsRequired="4" symbols="Factory" payouts="100" direction="LeftToRight"/>
+       <WinCombination clientTag="20" name="3 x Factory" numSymbolsRequired="3" symbols="Factory" payouts="25" direction="LeftToRight"/>
+
+       <WinCombination clientTag="15" name="5 x Train" numSymbolsRequired="5" symbols="Train" payouts="800" direction="LeftToRight"/>
+       <WinCombination clientTag="16" name="4 x Train" numSymbolsRequired="4" symbols="Train" payouts="80" direction="LeftToRight"/>
+       <WinCombination clientTag="17" name="3 x Train" numSymbolsRequired="3" symbols="Train" payouts="20" direction="LeftToRight"/>
+
+       <WinCombination clientTag="12" name="5 x Submarine" numSymbolsRequired="5" symbols="Submarine" payouts="500" direction="LeftToRight"/>
+       <WinCombination clientTag="13" name="4 x Submarine" numSymbolsRequired="4" symbols="Submarine" payouts="60" direction="LeftToRight"/>
+       <WinCombination clientTag="14" name="3 x Submarine" numSymbolsRequired="3" symbols="Submarine" payouts="15" direction="LeftToRight"/>
+
+       <WinCombination clientTag="9" name="5 x Balloon" numSymbolsRequired="5" symbols="Balloon" payouts="250" direction="LeftToRight"/>
+       <WinCombination clientTag="10" name="4 x Balloon" numSymbolsRequired="4" symbols="Balloon" payouts="50" direction="LeftToRight"/>
+       <WinCombination clientTag="11" name="3 x Balloon" numSymbolsRequired="3" symbols="Balloon" payouts="12" direction="LeftToRight"/>
+
+       <WinCombination clientTag="6" name="5 x RailCart" numSymbolsRequired="5" symbols="RailCart" payouts="100" direction="LeftToRight"/>
+       <WinCombination clientTag="7" name="4 x RailCart" numSymbolsRequired="4" symbols="RailCart" payouts="40" direction="LeftToRight"/>
+       <WinCombination clientTag="8" name="3 x RailCart" numSymbolsRequired="3" symbols="RailCart" payouts="6" direction="LeftToRight"/>
+
+       <WinCombination clientTag="3" name="5 x GoldBars" numSymbolsRequired="5" symbols="GoldBars" payouts="90" direction="LeftToRight"/>
+       <WinCombination clientTag="4" name="4 x GoldBars" numSymbolsRequired="4" symbols="GoldBars" payouts="30" direction="LeftToRight"/>
+       <WinCombination clientTag="5" name="3 x GoldBars" numSymbolsRequired="3" symbols="GoldBars" payouts="4" direction="LeftToRight"/>
+
+       <WinCombination clientTag="0" name="5 x CoinPile" numSymbolsRequired="5" symbols="CoinPile" payouts="80" direction="LeftToRight"/>
+       <WinCombination clientTag="1" name="4 x CoinPile" numSymbolsRequired="4" symbols="CoinPile" payouts="25" direction="LeftToRight"/>
+       <WinCombination clientTag="2" name="3 x CoinPile" numSymbolsRequired="3" symbols="CoinPile" payouts="3" direction="LeftToRight"/>
+
+       <WinCombination clientTag="30" name="5 x Scatter" numSymbolsRequired="5" symbols="Scatter" payouts="200" paylines="Scatter" direction="UnOrdered"/>
+       <WinCombination clientTag="31" name="4 x Scatter" numSymbolsRequired="4" symbols="Scatter" payouts="20" paylines="Scatter" direction="UnOrdered"/>
+       <WinCombination clientTag="32" name="3 x Scatter" numSymbolsRequired="3" symbols="Scatter" payouts="3" paylines="Scatter" direction="UnOrdered"/>
+       <WinCombination clientTag="33" name="2 x Scatter" numSymbolsRequired="2" symbols="Scatter" payouts="2" paylines="Scatter" direction="UnOrdered"/>
+       
+       <WinCombination clientTag="34" name="5 x FS_Scatter" numSymbolsRequired="5" symbols="FS_Scatter" payouts="200" paylines="Scatter" direction="UnOrdered"/>
+       <WinCombination clientTag="35" name="4 x FS_Scatter" numSymbolsRequired="4" symbols="FS_Scatter" payouts="20"  paylines="Scatter" direction="UnOrdered"/>
+       <WinCombination clientTag="36" name="3 x FS_Scatter" numSymbolsRequired="3" symbols="FS_Scatter" payouts="3"   paylines="Scatter" direction="UnOrdered"/>
+       <WinCombination clientTag="37" name="2 x FS_Scatter" numSymbolsRequired="2" symbols="FS_Scatter" payouts="2"   paylines="Scatter" direction="UnOrdered"/>
+       
+     </WinningCombinations>
+    </Slot>
+	
+	<BonusGames>
+	
+		<Bonus name="Boiler Room Bonus" type="PickXofY" numTicketsRequired="1" numPicksAllowed="4,12,1">
+		  <Items bonusLevel="0" numInSet="12" placesToFill="12" /> 
+		  <Items bonusLevel="1" numInSet="12" placesToFill="12" />
+		  <Items bonusLevel="2" numInSet="1"  placesToFill="1"  />
+			<Awards>
+				<Award bonusLevel="0">
+					<Results shrinkType="RemoveOne">
+					  <Result id="0" value="0" frequency="10" /> 
+					  <Result id="1" value="0" frequency="1" /> 
+					  <Result id="2" value="0" frequency="1" />
+					</Results>
+				</Award>
+				<Award bonusLevel="1">
+					  <Results shrinkType="RemoveOne">
+						<Result id="12" value="0" frequency="10" consolationValue="1" /> 
+						<Result id="13" value="0" frequency="2" />
+					</Results>
+				</Award>
+				<Award bonusLevel="2">
+					  <Results shrinkType="RemoveOne">
+						<Result id="19" value="0" frequency="1" />
+					</Results>
+				</Award>
+			</Awards>
+			<ChainedAwards>
+			 <ChainedAward validForResults="0" numTimes="infinite">
+			   <Results shrinkType="NoShrink">
+				 <Result id="3"  value="2"  frequency="3"/>
+				 <Result id="4"  value="3"  frequency="4"/>
+				 <Result id="5"  value="4"  frequency="3"/>
+				 <Result id="6"  value="5"  frequency="2"/>
+				 <Result id="7"  value="6"  frequency="1"/>
+				 <Result id="8"  value="8"  frequency="1"/>
+				 <Result id="9"  value="10" frequency="1"/>
+				 <Result id="10" value="12" frequency="1"/>
+				 <Result id="11" value="15" frequency="1"/>
+			   </Results>
+			 </ChainedAward>
+			 <ChainedAward validForResults="12" numTimes="infinite">
+			   <Results shrinkType="NoShrink">
+				 <Result id="14"  value="3"  frequency="1"/>
+				 <Result id="15"  value="4"  frequency="1"/>
+				 <Result id="16"  value="5"  frequency="1"/>
+				 <Result id="17"  value="6"  frequency="1"/>
+				 <Result id="18"  value="7"  frequency="1"/>
+			   </Results>
+			 </ChainedAward>
+		   </ChainedAwards>
+		   
+      <LevelTransitionTriggers bonusLevel="0" >
+				<LevelTransitionTrigger name="TriggerLevel2" condition="ResultOccurs" results="2" levelToTrigger="1"/>
+				<LevelTransitionTrigger name="TriggerLevel3" condition="ResultOccurs" results="1" levelToTrigger="2"/>
+			</LevelTransitionTriggers>
+	  
+			<WinScaler type="ScaleBySlotBet" baseNumChips="1" useLineBet="0"/>
+
+			<SuspendGameRules bonusLevel="2">
+				<SuspendGameRule name="StartFreeSpins" condition="ResultOccurs" results="19" /> 
+			</SuspendGameRules>
+
+		  <GameEndRules bonusLevel="0" unPickedItems="Reveal" /> 
+      
+      <GameEndRules bonusLevel="1" unPickedItems="Consolation">
+        <GameEndRule name="FoundPop" condition="ResultOccurs" results="13" unPickedItems="Consolation"/>
+		  </GameEndRules>
+      
+      <GameEndRules bonusLevel="2" unPickedItems="NoAction" />      
+	  
+		</Bonus>
+		
+	  </BonusGames>
+	  
+	<TriggerConditions>
+	
+		<TriggerCondition type="SlotWin" winName="5 x Scatter,4 x Scatter,3 x Scatter" validRequests="SlotSpin" >
+			<TriggeredEffect type="AwardFixedBonusTickets" numTickets="1" bonusGame="Boiler Room Bonus" />
+		</TriggerCondition>
+	
+		<TriggerCondition type="BonusResult" bonusGame="Boiler Room Bonus" resultIds="19" validRequests="BonusPick">
+			<TriggeredEffect type="FreeSpins" numFreeSpins="10" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="11" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="12" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="13" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="14" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="15" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="20" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="21" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="22" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="23" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="24" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="25" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="30" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="31" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="32" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="33" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="34" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+			<TriggeredEffect type="FreeSpins" numFreeSpins="35" multiplier="2" reelSet="Free Spin Reels" weight="1"/>
+		</TriggerCondition>
+	  
+	 </TriggerConditions>
+	
+</XML>

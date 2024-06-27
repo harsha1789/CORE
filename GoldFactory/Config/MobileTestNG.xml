@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Parallel test suite" parallel="tests" thread-count="10"
+	verbose="10">
+	
+	
+		<test name="Regression Suite for Device 1">
+			<parameter name="IpAddress" value="127.0.0.1" />
+			<parameter name="DeviceId" value="ad0516022904e192ab" />
+			<parameter name="Port" value="4723" />
+			<parameter name="OSVersion" value="7.0" />
+			<parameter name="Proxy" value="0" />
+			<parameter name="Username" value="Zen_eljkkpi" />
+			<parameter name="ZenReplica" value= "True" />
+			<parameter name="DeviceName" value="Galaxy S7" />
+			<parameter name="Browser" value="chrome" />
+			<parameter name="OSPlatform" value="Android" />
+			<parameter name="GameName" value="GoldFactory" />
+			<parameter name="CheckedOutDeviceNum" value="1" />
+			<classes>
+				<class name="com.zensar.automation.framework.driver.MobileDriver" />
+			</classes>
+		</test>
+			
+		
+
+ </suite>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Parallel test suite" parallel="tests" thread-count="10"
+	verbose="10">
+	<!-- <test name="Regression Suite for Device 1">
+		<parameter name="IpAddress" value="127.0.0.1" />
+			<parameter name="DeviceId" value="216daf7811027ece" />
+			<parameter name="Port" value="4723" />
+			<parameter name="OSVersion" value="9" />
+			<parameter name="Proxy" value="0" />
+			<parameter name="Username" value="player904" />
+			<parameter name="ZenReplica" value= "True" />
+			<parameter name="DeviceName" value="Galaxy S9+" />
+			<parameter name="Browser" value="chrome" />
+			<parameter name="OSPlatform" value="Android" />
+			<parameter name="GameName" value="GoldFactory" />
+		<classes>
+			<class name="com.zensar.automation.driver.MobileDriver" />
+		</classes>
+	</test>  -->
+	
+	<test name="Regression Suite for Device 2">
+		<parameter name="IpAddress" value="127.0.0.1" />
+			<parameter name="DeviceId" value="ce051715b276652a01" />
+			<parameter name="Port" value="4723" />
+			<parameter name="OSVersion" value="7.0" />
+			<parameter name="Proxy" value="0" />
+			<parameter name="Username" value="player905" />
+			<parameter name="ZenReplica" value= "True" />
+			<parameter name="DeviceName" value="Galaxy S8" />
+			<parameter name="Browser" value="chrome" />
+			<parameter name="OSPlatform" value="Android" />
+			<parameter name="GameName" value="GoldFactory" />
+		<classes>
+			<class name="com.zensar.automation.framework.driver.MobileDriver" />
+		</classes>
+	</test> 
+	<!-- <test name="Regression Suite for Device 2">
+		<parameter name="ipAddress" value="127.0.0.1" />
+		<parameter name="deviceid" value="ad0516022904e192ab" />
+		<parameter name="port" value="4723" />
+		<parameter name="osVersion" value="6.0.1" />
+		<parameter name="proxy" value="0" />
+		<parameter name="username" value="player890" />
+		<parameter name="ZenReplica" value= "True" />
+		<parameter name="DeviceName" value="S7" />
+		<parameter name="LockType" value="Pin" />
+		<parameter name="LockKey" value="12345" />
+		<parameter name="GameName" value="BreakAway"/>
+		<classes>
+			<class name="Driver.MobileDriver" />
+		</classes>
+	</test>
+	 <test name="Regression Suite for Device 3">
+		<parameter name="ipAddress" value="127.0.0.1" />
+		<parameter name="deviceid" value="ce031713cd9c4c1301" />
+		<parameter name="port" value="4723" />
+		<parameter name="osVersion" value="6.0.1" />
+		<parameter name="proxy" value="0" />
+		<parameter name="username" value="player440" />
+		<parameter name="ZenReplica" value= "True" />
+		<parameter name="DeviceName" value="s8+" />
+		<parameter name="LockType" value="Pin" />
+		<parameter name="LockKey" value="12345" />
+		<parameter name="GameName" value="BreakAway"/>
+		<classes>
+			<class name="Driver.MobileDriver" />
+		</classes>
+	</test> -->
+	<!--  
+	<test name="Regression Suite for Device 3">
+		<parameter name="ipAddress" value="127.0.0.1" />
+		<parameter name="deviceid" value="6cc114a4" />
+		<parameter name="port" value="4723" />
+		<parameter name="osVersion" value="6.0.1" />
+		<parameter name="proxy" value="0" />
+		<parameter name="username" value="player440" />
+		<parameter name="ZenReplica" value= "True" />
+		<parameter name="DeviceName" value="Vivo X6S A" />
+		<parameter name="LockType" value="Pin" />
+		<parameter name="LockKey" value="12345" />
+		<classes>
+			<class name="Driver.MobileDriver" />
+		</classes>
+	</test>
+	<test name="Regression Suite for Device 5">
+		<parameter name="ipAddress" value="127.0.0.1" />
+		<parameter name="deviceid" value="21aaa478df0c7ece" />
+		<parameter name="port" value="4723" />
+		<parameter name="osVersion" value="6.0.1" />
+		<parameter name="proxy" value="0" />
+		<parameter name="username" value="player440" />
+		<parameter name="ZenReplica" value= "True" />
+		<parameter name="DeviceName" value="S9" />
+		<parameter name="LockType" value="Pin" />
+		<parameter name="LockKey" value="12345" />
+		<classes>
+			<class name="Driver.MobileDriver" />
+		</classes>
+	</test>
+	<test name="Regression Suite for Device 9">
+		<parameter name="ipAddress" value="127.0.0.1" />
+		<parameter name="deviceid" value="ce0916099b69152d02" />
+		<parameter name="port" value="4723" />
+		<parameter name="osVersion" value="6.0.1" />
+		<parameter name="proxy" value="0" />
+		<parameter name="username" value="player440" />
+		<parameter name="ZenReplica" value= "True" />
+		<parameter name="DeviceName" value="S7 Edge" />
+		<parameter name="LockType" value="Pin" />
+		<parameter name="LockKey" value="12345" />
+		<classes>
+			<class name="Driver.MobileDriver" />
+		</classes>
+	</test>
+	<test name="Regression Suite for Device 8">
+		<parameter name="ipAddress" value="127.0.0.1" />
+		<parameter name="deviceid" value="ce031713e950349d0c" />
+		<parameter name="port" value="4723" />
+		<parameter name="osVersion" value="6.0.1" />
+		<parameter name="proxy" value="0" />
+		<parameter name="username" value="player440" />
+		<parameter name="ZenReplica" value= "True" />
+		<parameter name="DeviceName" value="S8" />
+		<parameter name="LockType" value="Pin" />
+		<parameter name="LockKey" value="12345" />
+		<classes>
+			<class name="Driver.MobileDriver" />
+		</classes>
+	</test>
+	<test name="Regression Suite for Device 10">
+		<parameter name="ipAddress" value="127.0.0.1" />
+		<parameter name="deviceid" value="VWCEMJ6999999999" />
+		<parameter name="port" value="4723" />
+		<parameter name="osVersion" value="6.0.1" />
+		<parameter name="proxy" value="0" />
+		<parameter name="username" value="player440" />
+		<parameter name="ZenReplica" value= "True" />
+		<parameter name="DeviceName" value="Vivo Y66" />
+		<parameter name="LockType" value="Pin" />
+		<parameter name="LockKey" value="12345" />
+		<classes>
+			<class name="Driver.MobileDriver" />
+		</classes>
+	</test>-->
+ </suite>
+      
+    
+        
+
+   
